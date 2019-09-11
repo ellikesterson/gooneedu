@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eihaezuigh.pogrzebdzieckanienarodzonego.info.pl/sitemap.xml
